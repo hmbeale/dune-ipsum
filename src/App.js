@@ -21,13 +21,13 @@ const styles = theme => ({
 	});
 
 const sourceWords = [
-  "flesh" "awareness" "Bene" "Atreides" "worm"
-  "Shaitan" "Shai-Hulud" "stillsuit" "desert"
-  "mentat" "ghola" "Tleilaxu" "gesserit"
-  "CHOAM" "melange" "prescience" "abomination"
-  "Ixian" "axolotl" "guild navigator"
-  "desert" "crysknife" "spice" "prana-bindu"
-  "Muad'Dib" "face dancer" "Harkonnen"
+  "flesh", "awareness", "Bene", "Atreides", "worm",
+  "Shaitan", "Shai-Hulud", "stillsuit", "desert",
+  "mentat", "ghola", "Tleilaxu", "gesserit",
+  "CHOAM", "melange", "prescience", "abomination",
+  "Ixian", "axlotl", "guild navigator",
+  "desert", "crysknife", "spice", "prana-bindu",
+  "Muad'Dib", "face dancer", "Harkonnen",
   "sardaukar"
 ];
 const getRandomInt = max => {
