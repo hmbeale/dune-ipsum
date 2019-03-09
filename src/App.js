@@ -21,13 +21,14 @@ const styles = theme => ({
 	});
 
 const sourceWords = [
-  "aiken",
-  "county",
-  "geoservices",
-  "mapping",
-  "data",
-  "drone",
-  "imagery"
+  "flesh" "awareness" "Bene" "Atreides" "worm"
+  "Shaitan" "Shai-Hulud" "stillsuit" "desert"
+  "mentat" "ghola" "Tleilaxu" "gesserit"
+  "CHOAM" "melange" "prescience" "abomination"
+  "Ixian" "axolotl" "guild navigator"
+  "desert" "crysknife" "spice" "prana-bindu"
+  "Muad'Dib" "face dancer" "Harkonnen"
+  "sardaukar"
 ];
 const getRandomInt = max => {
   return Math.floor(Math.random() * Math.floor(max));
@@ -58,9 +59,6 @@ class MediaCard extends React.Component {
     return (
       <Card className={classes.card}>
         <CardContent>
-          <Typography gutterBottom variant="h5" component="h2">
-            Map
-          </Typography>
           <Typography component="p">{this.state.blockText}</Typography>
         </CardContent>
         <CardActions>
