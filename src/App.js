@@ -17,6 +17,9 @@ const styles = theme => ({
   },
   media: {
     height: 140
+  },
+  button: {
+    margin: 'auto'
   }
 	});
 
@@ -62,8 +65,13 @@ class MediaCard extends React.Component {
           <Typography component="p">{this.state.blockText}</Typography>
         </CardContent>
         <CardActions>
-          <Button size="small" color="primary" onClick={this.handleClick}>
-            generate text
+          <Button
+            variant="contained"
+            color="primary"
+            className={classes.button}
+            onClick={this.handleClick}
+          >
+            Generate Text
           </Button>
         </CardActions>
       </Card>
