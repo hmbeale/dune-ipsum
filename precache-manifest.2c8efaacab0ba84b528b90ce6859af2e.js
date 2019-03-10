@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/dune-ipsum/static/css/main.4ce8c9bb.chunk.css"
   },
   {
-    "revision": "280c9309a84b5225d0b828a2c64be99c",
+    "revision": "8785b8ddc33ca958ceb9f679fafc6e5a",
     "url": "/dune-ipsum/index.html"
   }
 ];

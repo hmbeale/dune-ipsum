@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/dune-ipsum/precache-manifest.efec12c1cfc23959e2f101af2828f200.js"
+  "/dune-ipsum/precache-manifest.2c8efaacab0ba84b528b90ce6859af2e.js"
 );
 
 workbox.clientsClaim();
