@@ -19,7 +19,9 @@ const styles = theme => ({
     height: 140
   },
   button: {
-    margin: 'auto'
+    marginLeft: 'auto',
+    marginRight: 'auto',
+    marginBottom: theme.spacing.unit
   }
 	});
 
