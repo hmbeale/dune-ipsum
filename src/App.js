@@ -63,19 +63,20 @@ class MediaCard extends React.Component {
     const { classes } = this.props;
     return (
       <Card className={classes.card}>
+      <CardActions>
+        <Button
+          variant="contained"
+          color="primary"
+          className={classes.button}
+          onClick={this.handleClick}
+        >
+          Generate Text
+        </Button>
+      </CardActions>
         <CardContent>
           <Typography component="p">{this.state.blockText}</Typography>
         </CardContent>
-        <CardActions>
-          <Button
-            variant="contained"
-            color="primary"
-            className={classes.button}
-            onClick={this.handleClick}
-          >
-            Generate Text
-          </Button>
-        </CardActions>
+
       </Card>
     );
   }
