@@ -1,13 +1,13 @@
 {
   "main.css": "/dune-ipsum/static/css/main.4ce8c9bb.chunk.css",
-  "main.js": "/dune-ipsum/static/js/main.480848c7.chunk.js",
-  "main.js.map": "/dune-ipsum/static/js/main.480848c7.chunk.js.map",
+  "main.js": "/dune-ipsum/static/js/main.08e76b9e.chunk.js",
+  "main.js.map": "/dune-ipsum/static/js/main.08e76b9e.chunk.js.map",
   "runtime~main.js": "/dune-ipsum/static/js/runtime~main.d4dacabf.js",
   "runtime~main.js.map": "/dune-ipsum/static/js/runtime~main.d4dacabf.js.map",
-  "static/js/2.b89a01d5.chunk.js": "/dune-ipsum/static/js/2.b89a01d5.chunk.js",
-  "static/js/2.b89a01d5.chunk.js.map": "/dune-ipsum/static/js/2.b89a01d5.chunk.js.map",
+  "static/js/2.536f6baf.chunk.js": "/dune-ipsum/static/js/2.536f6baf.chunk.js",
+  "static/js/2.536f6baf.chunk.js.map": "/dune-ipsum/static/js/2.536f6baf.chunk.js.map",
   "index.html": "/dune-ipsum/index.html",
-  "precache-manifest.2c8efaacab0ba84b528b90ce6859af2e.js": "/dune-ipsum/precache-manifest.2c8efaacab0ba84b528b90ce6859af2e.js",
+  "precache-manifest.0a8f1012fdcf384463a406e76409880f.js": "/dune-ipsum/precache-manifest.0a8f1012fdcf384463a406e76409880f.js",
   "service-worker.js": "/dune-ipsum/service-worker.js",
   "static/css/main.4ce8c9bb.chunk.css.map": "/dune-ipsum/static/css/main.4ce8c9bb.chunk.css.map"
 }
